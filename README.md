@@ -11,8 +11,11 @@ Each LED footprint is labeled with its corresponding die-face pattern.
 
 Circuit was built on a breadboard to ensure it works. <img width="852" height="332" alt="breadboardDICE" src="https://github.com/user-attachments/assets/bd6ac8c9-8575-4389-8410-62d3fa2262b2" />
 
-Schematic: <img width="1132" height="690" alt="SCH_Dice" src="https://github.com/user-attachments/assets/681a126c-afb3-4cef-9941-4203685c3c4c" />
+I then added the connections to the EasyEDA Schematic Builder. <img width="1132" height="690" alt="SCH_Dice" src="https://github.com/user-attachments/assets/681a126c-afb3-4cef-9941-4203685c3c4c" />
 
-PCB Design: <img width="1032" height="630" alt="PCB_Dice" src="https://github.com/user-attachments/assets/a7805ac4-f51c-4894-8861-cdd7d76c54cc" />
+Using the EasyEDA PCB Designer, I designed the PCB and ensured the connections were accurate.  <img width="1032" height="630" alt="PCB_Dice" src="https://github.com/user-attachments/assets/a7805ac4-f51c-4894-8861-cdd7d76c54cc" />
+
+The PCB was then ordered, and I soldered it by hand. <img width="2781" height="2781" alt="IMG_3701" src="https://github.com/user-attachments/assets/f53599c5-ca94-4df8-adc3-42fde7c2d971" />
+
 
 All files are attached to the repository. 
