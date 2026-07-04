@@ -31,7 +31,7 @@ The custom boards were ordered, manufactured, and fully assembled and soldered b
 
 ## 📜 License & Attribution
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 
+This project is licensed under the **MIT License** : see the [LICENSE](LICENSE) file for details. 
 
 ### How to Credit This Project
 If you use, modify, or distribute these EasyEDA files, you must retain the original copyright notice. If you manufacture physical boards based on this design, please maintain the attribution text on the PCB silkscreen or credit this repository in your project documentation:
