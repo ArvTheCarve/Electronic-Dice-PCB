@@ -44,3 +44,8 @@ If you use, modify, or distribute these EasyEDA files, you must retain the origi
 1. Download or clone this repository.
 2. Open [EasyEDA](https://easyeda.com) (Standard or Pro edition).
 3. Go to **File > Open > EasyEDA...** and import the design files.
+
+## 📺 Video Demonstration
+
+https://github.com/user-attachments/assets/14549b0d-079e-4bdf-9bb8-172eb88cc7d9
+
